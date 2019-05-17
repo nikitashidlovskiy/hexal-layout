@@ -1,0 +1,24 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+header {
+  background-color: #323232;
+  height: 63px;
+  text-align: center;
+}
+header .header-item {
+  text-align: center;
+}
+header .header-item P {
+  margin-top: 10%;
+  font-size: 7.21379pt;
+  color: white;
+}
+header .header-item .sp {
+  color: #2eb398;
+}
+.author {
+  height: 341px;
+  background-color: #2eb398;
+}
